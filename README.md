@@ -1,2 +1,3 @@
+[中文](https://github.com/jiayijiayi777/minecraft/edit/master/README_CN.md)
 # minecraft
 # This is my development and archive in minecraft
